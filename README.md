@@ -1,2 +1,2 @@
 # InstallNimbusAliasesOnWindows
-Install Nimbus Alises (dps, dpsa, di, de) on Windows machines.
+Install Nimbus Aliases (dps, dpsa, di, de) on Windows machines.
